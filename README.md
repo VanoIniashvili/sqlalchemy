@@ -1,6 +1,6 @@
 # book and author database
 
-this project provides a simple SQLite database for managing books and their authors. tt uses SQLAlchemy for ORM to facilitate interactions with the database
+this project provides a simple SQLite database for managing books and their authors. it uses SQLAlchemy for ORM to facilitate interactions with the database
 
 ## features
 
