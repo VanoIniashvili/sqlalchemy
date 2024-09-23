@@ -15,17 +15,11 @@ this project provides a simple SQLite database for managing books and their auth
 ## getting started
 
 ### installation
-
-1. clone the repository:
-   ```bash
-   git clone https://github.com/VanoIniashvili/sqlalchemy.git
-   cd sqlalchemy
-    ```
-2. install the required packages:   
+1. install the required packages:   
    ```bash
     pip install -r requirements.txt
     ```
-3. run the script:
+2. run the script:
     ```bash
     python3 main.py
     ```
